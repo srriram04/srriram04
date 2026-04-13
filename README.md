@@ -67,7 +67,7 @@
 ### 🎮 Game Store Website
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/online-games-concept_23-2148533386.jpg" width="600"/>
+  <img src="https://gamersdelight.co.uk/cdn/shop/files/400334648_1537434540389390_5256246663431478648_n.jpg?v=1735846009&width=1445" width="600"/>
 </p>
 
 ✨ **Frontend E-commerce UI**
