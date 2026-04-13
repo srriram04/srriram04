@@ -1,99 +1,127 @@
-<h1 align="center">Hey 👋, I'm S Deepasundaram</h1>
-<h3 align="center">Frontend Developer | React JS Developer</h3>
+<h1 align="center">Hey 👋, I'm K T Sriram</h1>
+<h3 align="center">🚀 Full Stack Developer | Python Django | React JS</h3>
 
 <p align="center">
-  <a href="mailto:deepaksenthil005@gmail.com">
+  <img src="https://avatars.githubusercontent.com/u/0?v=4" width="140" style="border-radius:50%" />
+</p>
+
+<p align="center">
+  <a href="mailto:srriram04@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/srriram04">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 💻 Frontend Developer with strong skills in React.js, HTML, CSS, JavaScript  
-- 🚀 Experience in building responsive & user-friendly web apps  
-- 🔧 Backend knowledge in Node.js & Express.js  
-- 🗄️ Worked with MongoDB & MySQL databases  
-- 🤝 Team collaboration & real-time project experience  
+## 🧑‍💻 About Me
+
+💡 Passionate Full Stack Developer building real-world applications
+
+* 🎓 B.Com (Computer Applications)
+* 💻 Strong in **Django + React**
+* 🚀 Built & deployed **Student ERP System**
+* 🔥 Love building scalable & responsive apps
+* 🎯 Goal → Software Developer (Product Based Company)
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+<p align="center">
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+<img src="https://skillicons.dev/icons?i=react,js,html,css,python,django,mysql,git,github,vscode,postman" />
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🏥 MediConnect – Hospital Appointment System
-- MERN Stack application  
-- Doctor search & appointment booking  
-- Role-based dashboards (Patient/Admin)  
-- Secure login & responsive UI  
+### 🎓 Student Management System (ERP)
 
----
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/dashboard-concept-illustration_114360-2626.jpg" width="600"/>
+</p>
 
-### 🛒 PitShop E-Commerce Website
-- Built using HTML, CSS, JavaScript  
-- Dynamic product filtering & cart  
-- User authentication system  
-- Fully responsive design  
+✨ **Full Stack ERP Application**
 
----
+* Admin & Student Authentication
+* Attendance & Marks Management
+* Subject & Department Handling
+* Fully responsive UI
 
-### 🍔 Food Ordering Website (React)
-- Built using React.js  
-- Real-time order updates  
-- Cart functionality & UI design  
-- Backend integration  
+🌐 **Live Project:**
+👉 https://student-management-frontend-2cuu.onrender.com
+
+⚙️ **Backend API:**
+👉 https://student-management-backend-3dbc.onrender.com
 
 ---
 
-## 💼 Internship
-**Full Stack Development Trainee**  
-📍 Tarcin Robotic LLP, Madurai (June 2024)  
+### 🎮 Game Store Website
 
-- Developed full-stack applications  
-- Managed database operations  
-- Deployment & debugging experience  
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/online-games-concept_23-2148533386.jpg" width="600"/>
+</p>
+
+✨ **Frontend E-commerce UI**
+
+* Product listing & cart system
+* LocalStorage based cart
+* Responsive UI
+
+🌐 **Live Project:**
+👉 https://srriram04.github.io/game-store-website/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srriram04&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srriram04&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+* 🔹 Advanced React
+* 🔹 REST API Optimization
+* 🔹 Deployment & DevOps
+
+---
+
+## 📜 Certifications
+
+* Python – GUVI
+* Full Stack – Besant Technologies
+* Future X Program
 
 ---
 
 ## 🎓 Education
-🎓 B.E – Computer Science and Engineering  
-🏫 Sethu Institute of Technology  
-📊 CGPA: 8.56 (2024)  
+
+🎓 B.Com (Computer Applications)
+🏫 Ramakrishna Mission Vivekananda College
+📍 Chennai
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: deepaksenthil005@gmail.com  
-- 📍 Location: Madurai, India  
+## 📫 Contact
+
+* 📧 [srriram04@gmail.com](mailto:srriram04@gmail.com)
+* 📍 Chennai, India
 
 ---
 
-⭐ *Thank you for visiting my profile!*
+⭐ From [srriram04](https://github.com/srriram04)
