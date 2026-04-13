@@ -46,7 +46,7 @@
 ### 🎓 Student Management System (ERP)
 
 <p align="center">
-  <img src="C:\Users\USER\Downloads\Game store image.jpeg" width="600"/>
+  <img src="https://gamersdelight.co.uk/cdn/shop/files/400334648_1537434540389390_5256246663431478648_n.jpg?v=1735846009&width=1445" width="600"/>
 </p>
 
 ✨ **Full Stack ERP Application**
