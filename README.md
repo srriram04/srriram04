@@ -46,7 +46,7 @@
 ### 🎓 Student Management System (ERP)
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/dashboard-concept-illustration_114360-2626.jpg" width="600"/>
+  <img src="C:\Users\USER\Downloads\Game store image.jpeg" width="600"/>
 </p>
 
 ✨ **Full Stack ERP Application**
