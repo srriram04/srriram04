@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Python Django | React JS</h3>
 
 <p align="center">
-  <img src="C:\Users\USER\Downloads\Srriram photo1.jpeg" width="140" style="border-radius:50%" />
+  <img src="file:///C:/Users/USER/Downloads/Srriram%20photo1.jpeg" width="140" style="border-radius:50%" />
 </p>
 
 <p align="center">
