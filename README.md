@@ -78,7 +78,7 @@
 ---
 
 ### 🎮 Game Store
-![Project](https://raw.githubusercontent.com/srriram04/srriram04/main/images/game-store.png)
+![Project](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNeVFT8r3t9zjQq5-ran_Zidgdo2bJdD5i7g&s)
 
 ---
 
