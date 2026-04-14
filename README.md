@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srriram04/srriram04/main/images/Srriram%20photo1.jpeg" width="180" style="border-radius:50%" />
+  <img src="Srriram photo1.jpeg" width="180" style="border-radius:50%" />
 </p>
 
 ---
