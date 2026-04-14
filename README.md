@@ -81,18 +81,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srriram04&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srriram04&theme=tokyonight" />
-</p>
-
----
-
 ## 🧠 Currently Learning
 
 * 🔹 Advanced React
