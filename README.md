@@ -73,7 +73,7 @@
 ## 📂 Featured Project Preview
 
 ### 🎓 Student Management System
-![Project](https://raw.githubusercontent.com/srriram04/srriram04/main/images/student-management.png)
+![Project](https://5.imimg.com/data5/SELLER/Default/2023/10/355416189/DM/UD/MI/3497104/responder-student-reporting-management-system.png)
 
 ---
 
@@ -81,15 +81,6 @@
 ![Project](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNeVFT8r3t9zjQq5-ran_Zidgdo2bJdD5i7g&s)
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srriram04&show_icons=true&theme=radical" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: sriram04@gmail.com  
