@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Python Django | React JS</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/0?v=4" width="140" style="border-radius:50%" />
+  <img src="C:\Users\USER\Downloads\Srriram photo1.jpeg" width="140" style="border-radius:50%" />
 </p>
 
 <p align="center">
